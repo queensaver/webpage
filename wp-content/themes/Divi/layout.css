@@ -91,12 +91,6 @@ ul li {
 .link-line h3 {
 	line-height:44px;
 }
-.widthMob {
-    width:500px !important;
-}
-.onlyMob {
-    display:none;
-}
 
 @media (max-width: 780px) {
     .dbreak .right, .dbreak .left {
@@ -129,14 +123,6 @@ ul li {
         font-size:37px;
         color:#000000;
         line-height: 37px;
-    }
-    .widthMob {
-        width:100% !important;
-    }
-    .onlyMob {
-        box-sizing: border-box;
-        padding: 0 25px;
-        display:block !important;
     }
 }
 @media (max-width: 560px) {

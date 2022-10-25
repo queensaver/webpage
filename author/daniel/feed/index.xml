@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Queensaver &#8211; start smart</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<title>daniel | Queensaver - start smart</title>
+	<atom:link href="/author/daniel/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Eine weitere WordPress-Website</description>
 	<lastBuildDate>Fri, 18 Jun 2021 07:02:05 +0000</lastBuildDate>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>/wp-content/uploads/2021/07/cropped-favicon-queensaver-32x32.png</url>
-	<title>Queensaver &#8211; start smart</title>
+	<title>daniel | Queensaver - start smart</title>
 	<link>/</link>
 	<width>32</width>
 	<height>32</height>

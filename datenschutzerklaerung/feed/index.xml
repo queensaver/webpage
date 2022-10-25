@@ -11,11 +11,11 @@
 	<atom:link href="/datenschutzerklaerung/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Eine weitere WordPress-Website</description>
-	<lastBuildDate>Fri, 25 Jun 2021 06:38:53 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 18 Oct 2022 07:06:49 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 </channel>
 </rss>
