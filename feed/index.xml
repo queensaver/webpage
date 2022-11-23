@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Eine weitere WordPress-Website</description>
-	<lastBuildDate>Fri, 18 Jun 2021 07:02:05 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 23 Nov 2022 14:47:14 +0000</lastBuildDate>
 	<language>de-DE</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -27,25 +27,5 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
-		<title>Hallo Welt!</title>
-		<link>/hallo-welt/</link>
-					<comments>/hallo-welt/#comments</comments>
-		
-		<dc:creator><![CDATA[daniel]]></dc:creator>
-		<pubDate>Fri, 18 Jun 2021 07:02:05 +0000</pubDate>
-				<category><![CDATA[Allgemein]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
-
-					<description><![CDATA[Willkommen bei WordPress. Dies ist dein erster Beitrag. Bearbeite oder lösche ihn und beginne mit dem Schreiben!]]></description>
-										<content:encoded><![CDATA[
-<p>Willkommen bei WordPress. Dies ist dein erster Beitrag. Bearbeite oder lösche ihn und beginne mit dem Schreiben!</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/hallo-welt/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-			</item>
-	</channel>
+</channel>
 </rss>
